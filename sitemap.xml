@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://www.renoart.fi/</loc>
+        <priority>1.00</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.renoart.fi/"/>
+    </url>
+    <url>
+        <loc>https://www.renoart.fi/yritys</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.renoart.fi/yritys"/>
+    </url>
+    <url>
+        <loc>https://www.renoart.fi/huoneistoremontit</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.renoart.fi/huoneistoremontit"/>
+    </url>
+    <url>
+        <loc>https://www.renoart.fi/kylpyhuone-ja-saunaremontit</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.renoart.fi/kylpyhuone-ja-saunaremontit"/>
+    </url>
+    <url>
+        <loc>https://www.renoart.fi/kalusteasennukset</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.renoart.fi/kalusteasennukset"/>
+    </url>
+    <url>
+        <loc>https://www.renoart.fi/vahinkosaneeraukset</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.renoart.fi/vahinkosaneeraukset"/>
+    </url>
+    <url>
+        <loc>https://www.renoart.fi/muut-rakennustyot</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.renoart.fi/muut-rakennustyot"/>
+    </url>
+    <url>
+        <loc>https://www.renoart.fi/ota-yhteytta</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.renoart.fi/ota-yhteytta"/>
+    </url>
+</urlset>
